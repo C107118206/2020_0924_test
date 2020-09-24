@@ -7,8 +7,20 @@
 ##### 簡偉丞 C107118206
 ###### 簡偉丞 C107118206
 
+:simle:
+
+|Left   |Center   |Right   |
+|:------|:-------:|-------:|
+|1st    |1st      |lst     |
+|2nd testing |2nd testing |2nd testing|
+
+
 [NKUST](https://www.nkust.edu.tw/)
 
 <https://www.nkust.edu.tw/>
 
-[NKUST]()
+[NKUST](nkust.png)
+
+[![Everything Is AWESOME](https://img.youtube.com/vi/sSm2dRarhPo/0.jpg)](https://www.youtube.com/watch?v=sSm2dRarhPo "Title")
+
+
