@@ -19,7 +19,7 @@
 
 <https://www.nkust.edu.tw/>
 
-[NKUST](nkust.png)
+![NKUST](nkust.png "NKUST")
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/sSm2dRarhPo/0.jpg)](https://www.youtube.com/watch?v=sSm2dRarhPo "Title")
 
